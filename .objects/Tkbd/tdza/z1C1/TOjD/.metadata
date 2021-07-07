@@ -1,0 +1,13 @@
+﻿{
+  "Id": "TOjDhRlFOUGYRG-Xh09W6w",
+  "Reference": "Cl-BLUx_PkekIS_8FgNQ0Q/TOjDhRlFOUGYRG-Xh09W6w",
+  "ParentRef": "Cl-BLUx_PkekIS_8FgNQ0Q/z1C1Oo5c4EmKJxUkEOvW9w",
+  "Name": "Botao Novo Fornecedor",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-07-07T14:23:16.1432356Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-07-07T14:23:16.1432356Z"
+}

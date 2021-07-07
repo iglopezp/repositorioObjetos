@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.rpasamples.com/suppliers" ContentHash="HMeVXsQSaESLkRtIvti2kQ" DesignTimeRectangle="969, 654, 117, 32" ElementType="Button" FriendlyName="'Guardar'" FullSelectorArgument="&lt;webctrl id='saveButton' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl id='saveButton' tag='BUTTON' type='button' aaname='Guardar' check:text='Guardar' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath Demo App' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="982, 661, 91, 19" ElementType="Text" FriendlyName="'Guardar'" FullSelectorArgument="&lt;webctrl id='id__383' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='id__383' tag='SPAN' type='' aaname='Guardar' check:text='Guardar' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1MCMcxvVHM0qdRiETL9j5Ng</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0vS9zMynggE2p6oat9lXoJQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="de811af266a2448d74691a054b7d3979.png" xmlns="">0WV6AiyIoqEOeWuc4HJzFWA</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "psSoX7Mq10yEwP9J5rZKSQ",
+  "Reference": "Cl-BLUx_PkekIS_8FgNQ0Q/psSoX7Mq10yEwP9J5rZKSQ",
+  "ParentRef": "Cl-BLUx_PkekIS_8FgNQ0Q/SJYaO-FK4U-vMX5Z77_qQA",
+  "Name": " Botao Guardar",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-07-07T14:23:18.7679539Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-07-07T14:23:18.7679539Z"
+}

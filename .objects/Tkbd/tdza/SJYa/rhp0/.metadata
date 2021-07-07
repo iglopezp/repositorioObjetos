@@ -1,0 +1,13 @@
+﻿{
+  "Id": "rhp0g9uaFU2cxrJ_N2kt9A",
+  "Reference": "Cl-BLUx_PkekIS_8FgNQ0Q/rhp0g9uaFU2cxrJ_N2kt9A",
+  "ParentRef": "Cl-BLUx_PkekIS_8FgNQ0Q/SJYaO-FK4U-vMX5Z77_qQA",
+  "Name": "Nome Externo",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2021-07-07T14:23:18.1564939Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-07-07T14:23:18.1564939Z"
+}

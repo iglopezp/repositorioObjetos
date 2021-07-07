@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.rpasamples.com/suppliers" ContentHash="owTVgaucAEmwI0fInYHVMw" DesignTimeRectangle="132, 228, 346, 30" ElementType="InputBox" FriendlyName="'INPUT TextField335'" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='Nome Interno*' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath Demo App' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="131, 199, 354, 28" ElementType="Text" FriendlyName="'Nome Interno*'" FullSelectorArgument="&lt;webctrl id='TextFieldLabel337' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl id='TextFieldLabel337' tag='LABEL' type='' aaname='Nome Interno*' check:text='Nome Interno*' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1lCIc-oVRwU2TapokG1KBZQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0pYrrSwe3R0a0yVOJAS7Vzw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4bd65a9b6ba5664437200a088f52b383.png" xmlns="">0_0ar9r340kGLYzCDBjxrmQ</imageRef>
+</TargetAnchorable>

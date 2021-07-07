@@ -1,0 +1,11 @@
+﻿{
+  "Id": "TkbdNVSj9UWynEHPgUAWrw",
+  "Reference": "Cl-BLUx_PkekIS_8FgNQ0Q/TkbdNVSj9UWynEHPgUAWrw",
+  "Name": "Chrome: UiPath Demo App app",
+  "Type": "App",
+  "Created": "2021-07-07T14:23:15.3959082Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-07-07T14:23:15.3959082Z"
+}

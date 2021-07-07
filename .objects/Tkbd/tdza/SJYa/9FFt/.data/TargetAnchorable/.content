@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.rpasamples.com/suppliers" ContentHash="LL2IW_bWz0OOr9OQkAiHjw" DesignTimeRectangle="1100, 654, 117, 32" ElementType="Button" FriendlyName="'Cancelar'" FullSelectorArgument="&lt;webctrl id='cancelButton' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl id='cancelButton' tag='BUTTON' type='button' aaname='Cancelar' check:text='Cancelar' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath Demo App' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1113, 661, 91, 19" ElementType="Text" FriendlyName="'Cancelar'" FullSelectorArgument="&lt;webctrl id='id__386' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='id__386' tag='SPAN' type='' aaname='Cancelar' check:text='Cancelar' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">18FpP2EEmykmvCzEFgSGUoA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0YhjO4yQRNky7z8V2wC4kiQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e27666fdd56b17a5482e607c4b6ab9e3.png" xmlns="">0txMEXA5FYEOGXI7XJtt4wA</imageRef>
+</TargetAnchorable>

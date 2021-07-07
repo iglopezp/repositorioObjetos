@@ -1,0 +1,13 @@
+﻿{
+  "Id": "HS4KELkfZUC5kz_fH6G3Lg",
+  "Reference": "Cl-BLUx_PkekIS_8FgNQ0Q/HS4KELkfZUC5kz_fH6G3Lg",
+  "ParentRef": "Cl-BLUx_PkekIS_8FgNQ0Q/SJYaO-FK4U-vMX5Z77_qQA",
+  "Name": "Nome Interno*",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2021-07-07T14:23:17.7076694Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-07-07T14:23:17.7076694Z"
+}

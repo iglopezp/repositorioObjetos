@@ -1,0 +1,13 @@
+﻿{
+  "Id": "iZVwrcvQik-qTZAb36ClJQ",
+  "Reference": "Cl-BLUx_PkekIS_8FgNQ0Q/iZVwrcvQik-qTZAb36ClJQ",
+  "ParentRef": "Cl-BLUx_PkekIS_8FgNQ0Q/z1C1Oo5c4EmKJxUkEOvW9w",
+  "Name": "Botao Exportar CSV",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-07-07T14:23:16.6381124Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-07-07T14:23:16.6381124Z"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Id": "z1C1Oo5c4EmKJxUkEOvW9w",
+  "Reference": "Cl-BLUx_PkekIS_8FgNQ0Q/z1C1Oo5c4EmKJxUkEOvW9w",
+  "ParentRef": "Cl-BLUx_PkekIS_8FgNQ0Q/tdzaeZB5SkmGYK9w5HTF2A",
+  "Name": "Home",
+  "Type": "Screen",
+  "Created": "2021-07-07T14:23:15.6556575Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-07-07T14:23:15.6556575Z"
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.rpasamples.com/suppliers" ContentHash="MdSaz4m1G0mKJuVzodd7Sw" DesignTimeRectangle="1199, 391, 108, 36" ElementType="Text" FriendlyName="'Exportar CSV'" FullSelectorArgument="&lt;webctrl tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='A' type='' aaname='Exportar CSV' check:text='Exportar CSV' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath Demo App' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0sUS23skJoEmdNt_wfFiSww</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a7624d8e8f9b33c7f50aa5a0f226f085.png" xmlns="">0wrUnOlynD0KbZe1xmg3Img</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "9FFtDO8bp0y61mAoXtfKgA",
+  "Reference": "Cl-BLUx_PkekIS_8FgNQ0Q/9FFtDO8bp0y61mAoXtfKgA",
+  "ParentRef": "Cl-BLUx_PkekIS_8FgNQ0Q/SJYaO-FK4U-vMX5Z77_qQA",
+  "Name": "Botao Cancelar",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-07-07T14:23:19.4012609Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-07-07T14:23:19.4012609Z"
+}

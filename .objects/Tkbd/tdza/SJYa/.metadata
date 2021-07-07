@@ -1,0 +1,12 @@
+﻿{
+  "Id": "SJYaO-FK4U-vMX5Z77_qQA",
+  "Reference": "Cl-BLUx_PkekIS_8FgNQ0Q/SJYaO-FK4U-vMX5Z77_qQA",
+  "ParentRef": "Cl-BLUx_PkekIS_8FgNQ0Q/tdzaeZB5SkmGYK9w5HTF2A",
+  "Name": "Detalhes do fornecedor",
+  "Type": "Screen",
+  "Created": "2021-07-07T14:23:17.0330557Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-07-07T14:23:17.0330557Z"
+}
